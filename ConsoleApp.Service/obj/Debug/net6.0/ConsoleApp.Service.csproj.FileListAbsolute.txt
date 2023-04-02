@@ -1,0 +1,17 @@
+C:\Users\ASUS\source\repos\final\ConsoleApp.Service\bin\Debug\net6.0\ConsoleApp.Service.deps.json
+C:\Users\ASUS\source\repos\final\ConsoleApp.Service\bin\Debug\net6.0\ConsoleApp.Service.dll
+C:\Users\ASUS\source\repos\final\ConsoleApp.Service\bin\Debug\net6.0\ConsoleApp.Service.pdb
+C:\Users\ASUS\source\repos\final\ConsoleApp.Service\bin\Debug\net6.0\ConssoleApp.Core.dll
+C:\Users\ASUS\source\repos\final\ConsoleApp.Service\bin\Debug\net6.0\CosoleApp.Data.dll
+C:\Users\ASUS\source\repos\final\ConsoleApp.Service\bin\Debug\net6.0\CosoleApp.Data.pdb
+C:\Users\ASUS\source\repos\final\ConsoleApp.Service\bin\Debug\net6.0\ConssoleApp.Core.pdb
+C:\Users\ASUS\source\repos\final\ConsoleApp.Service\obj\Debug\net6.0\ConsoleApp.Service.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\final\ConsoleApp.Service\obj\Debug\net6.0\ConsoleApp.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\final\ConsoleApp.Service\obj\Debug\net6.0\ConsoleApp.Service.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\final\ConsoleApp.Service\obj\Debug\net6.0\ConsoleApp.Service.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\final\ConsoleApp.Service\obj\Debug\net6.0\ConsoleApp.Service.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\final\ConsoleApp.Service\obj\Debug\net6.0\ConsoleApp.Service.csproj.CopyComplete
+C:\Users\ASUS\source\repos\final\ConsoleApp.Service\obj\Debug\net6.0\ConsoleApp.Service.dll
+C:\Users\ASUS\source\repos\final\ConsoleApp.Service\obj\Debug\net6.0\refint\ConsoleApp.Service.dll
+C:\Users\ASUS\source\repos\final\ConsoleApp.Service\obj\Debug\net6.0\ConsoleApp.Service.pdb
+C:\Users\ASUS\source\repos\final\ConsoleApp.Service\obj\Debug\net6.0\ref\ConsoleApp.Service.dll

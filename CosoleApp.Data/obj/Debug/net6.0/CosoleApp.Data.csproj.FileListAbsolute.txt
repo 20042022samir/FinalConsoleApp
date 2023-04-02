@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\final\CosoleApp.Data\bin\Debug\net6.0\CosoleApp.Data.deps.json
+C:\Users\ASUS\source\repos\final\CosoleApp.Data\bin\Debug\net6.0\CosoleApp.Data.dll
+C:\Users\ASUS\source\repos\final\CosoleApp.Data\bin\Debug\net6.0\CosoleApp.Data.pdb
+C:\Users\ASUS\source\repos\final\CosoleApp.Data\bin\Debug\net6.0\ConssoleApp.Core.dll
+C:\Users\ASUS\source\repos\final\CosoleApp.Data\bin\Debug\net6.0\ConssoleApp.Core.pdb
+C:\Users\ASUS\source\repos\final\CosoleApp.Data\obj\Debug\net6.0\CosoleApp.Data.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\final\CosoleApp.Data\obj\Debug\net6.0\CosoleApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\final\CosoleApp.Data\obj\Debug\net6.0\CosoleApp.Data.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\final\CosoleApp.Data\obj\Debug\net6.0\CosoleApp.Data.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\final\CosoleApp.Data\obj\Debug\net6.0\CosoleApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\final\CosoleApp.Data\obj\Debug\net6.0\CosoleApp.Data.csproj.CopyComplete
+C:\Users\ASUS\source\repos\final\CosoleApp.Data\obj\Debug\net6.0\CosoleApp.Data.dll
+C:\Users\ASUS\source\repos\final\CosoleApp.Data\obj\Debug\net6.0\refint\CosoleApp.Data.dll
+C:\Users\ASUS\source\repos\final\CosoleApp.Data\obj\Debug\net6.0\CosoleApp.Data.pdb
+C:\Users\ASUS\source\repos\final\CosoleApp.Data\obj\Debug\net6.0\ref\CosoleApp.Data.dll

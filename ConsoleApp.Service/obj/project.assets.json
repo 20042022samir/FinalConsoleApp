@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "ConssoleApp.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ConssoleApp.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ConssoleApp.Core.dll": {}
+        }
+      },
+      "CosoleApp.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ConssoleApp.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CosoleApp.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CosoleApp.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConssoleApp.Core/1.0.0": {
+      "type": "project",
+      "path": "../ConssoleApp.Core/ConssoleApp.Core.csproj",
+      "msbuildProject": "../ConssoleApp.Core/ConssoleApp.Core.csproj"
+    },
+    "CosoleApp.Data/1.0.0": {
+      "type": "project",
+      "path": "../CosoleApp.Data/CosoleApp.Data.csproj",
+      "msbuildProject": "../CosoleApp.Data/CosoleApp.Data.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "CosoleApp.Data >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ASUS\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\final\\ConsoleApp.Service\\ConsoleApp.Service.csproj",
+      "projectName": "ConsoleApp.Service",
+      "projectPath": "C:\\Users\\ASUS\\source\\repos\\final\\ConsoleApp.Service\\ConsoleApp.Service.csproj",
+      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ASUS\\source\\repos\\final\\ConsoleApp.Service\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\ASUS\\source\\repos\\final\\CosoleApp.Data\\CosoleApp.Data.csproj": {
+              "projectPath": "C:\\Users\\ASUS\\source\\repos\\final\\CosoleApp.Data\\CosoleApp.Data.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
